@@ -1,0 +1,15 @@
+There is a Quote  
+     "Happiness is 
+    ...when your code 
+       runs without errors"
+
+Errors are common while you learning a programming language, these kind of errors will make you clever. 
+How will you handle this errors?, where is the errors are pointed out?, what are the action do you taken to diminish the errors?; you would learn answers for this questions from the errors you made.
+
+There are many types of programming errors such as Syntax errors, Runtime errors, and Logical errors.
+
+Syntax Error ::  Syntax errors occur when the code is not written correctly according to the rules of the programming language.
+ Example : print("Ramu said, "She was absent today due to fever."")
+
+ Runtime Error :: A runtime error is an error that occurs while the program is running. That means the syntax of the program itself is fine. 
+                  It is usually caused by something that the programmer did not anticipate.
