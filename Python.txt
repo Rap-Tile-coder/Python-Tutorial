@@ -1,0 +1,21 @@
+What is Python?
+
+ Python is an *interpreted* programming language. It was created by Guido van Rossum, first released in 1991.
+ Python is known for its simplicity and readability, which make it is easy for beginners. It is one of the most popular programming language in the world. It is often prefered language 
+ when automating tasks via *Scripts*. 
+ Used in::
+    Scientific computing
+    Data science
+    Machine learning
+    Back-end Web development
+
+Interpreted language ::
+   An interpreted programming language is different from compiled language. In compiled language, the code is translated into *byte code* before it excution.
+   In interpreted language, the code is execute line by line by an interpreter.
+
+Byte Code :: Byte code is an intermediate low-level representation of code.
+
+What is Script? 
+    A script is a file that contains a series of commands that are executed by a computer. 
+    Scripts are often used to automate repetitive tasks, such as renaming files, moving files, or processing data. 
+    Python is often used to write scripts because of its simplicity and readability.
